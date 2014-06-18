@@ -1,0 +1,4 @@
+conflict-free
+=============
+
+Conflict zone
